@@ -1,2 +1,2 @@
 # Deep-Learning-Coursera
-Problem set for the Deep Learning Course at Coursera
+My solutions to the Problem sets for the Deep Learning Course at Coursera
